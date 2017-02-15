@@ -65,7 +65,7 @@ In order to issue external commands via the web interface to Nagios, we must add
 Install Nagios Plugins
 =======================
 
- latest version is Nagios Plugins 2.1.1. Download it to your home directory
+ latest version is Nagios Plugins 2.2.0. Download it to your home directory
 
 # wget http://nagios-plugins.org/download/nagios-plugins-2.2.0.tar.gz
 
